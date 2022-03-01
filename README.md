@@ -17,10 +17,6 @@
 
 ## Running tests
 
-### Automate
-* Navigate to `cd app/test`
-* To run single test, run `robot SingleTest.robot`
-* 
 ### App Automate
 
 * Navigate to `cd app/test`
