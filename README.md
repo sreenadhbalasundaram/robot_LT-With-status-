@@ -20,7 +20,7 @@
 ### App Automate
 
 * Navigate to `cd app/test`
-* Upload app:d
+* Upload app refer https://www.lambdatest.com/support/docs/running-appium-tests-with-python/
 * Add "app_url" to the script. Eg: 
 - Android
 ```
@@ -41,6 +41,4 @@ Open Application    ${REMOTE_URL}    app=bs://<app_url>    name=single_test    b
     
 
   
-## Mobile Browsers (Automate)
-* Android: Replace `browser` (i.e. &{DC}[browser]) parameter in `Open Browser` to `android`
 
