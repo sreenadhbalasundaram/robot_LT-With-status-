@@ -3,8 +3,8 @@ Library    AppiumLibrary
 Library    Process
 
 *** Variables ***
-${USERNAME}    mayankmaurya   #Can specify lambdatest Username directly instead of Environment variable.
-${ACCESS_KEY}    4N7wU1Sq7cBGRHCaGf5Y72mTS30xyLV1faGphyvELhuNoTLMRk    #Can specify lambdatest Accesskey directly instead of Environment variable.
+${USERNAME}    %{LT_USERNAME}   #Can specify lambdatest Username directly instead of Environment variable.
+${ACCESS_KEY}    %{LT_ACCESS_KEY}    #Can specify lambdatest Accesskey directly instead of Environment variable.
 ${REMOTE_URL}    https://${USERNAME}:${ACCESS_KEY}@beta-hub.lambdatest.com/wd/hub
 
 *** Test Cases ***
