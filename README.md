@@ -22,7 +22,7 @@
 * Navigate to `cd app/test`
 * Upload app refer https://www.lambdatest.com/support/docs/running-appium-tests-with-python/
 * Sample app: https://github.com/mayank2193/robot_LT/blob/main/app/test/WikipediaSample.apk
-* Add "app_url" to the script. Eg: 
+* Replace "app_url" from script with the response recieved while uploading your test app to Lambdatest . Eg: lt://APP10020521642428466273345
 - Android
 ```
 Open Application    ${REMOTE_URL}    app=app_url  name=parallel_test    build=RobotFramework    platformName=Android    platformVersion=10   deviceName=Google Pixel 3 XL  isRealMobile=true
