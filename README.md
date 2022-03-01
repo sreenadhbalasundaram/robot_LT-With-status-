@@ -21,6 +21,7 @@
 
 * Navigate to `cd app/test`
 * Upload app refer https://www.lambdatest.com/support/docs/running-appium-tests-with-python/
+* Sample app: https://github.com/mayank2193/robot_LT/blob/main/app/test/WikipediaSample.apk
 * Add "app_url" to the script. Eg: 
 - Android
 ```
