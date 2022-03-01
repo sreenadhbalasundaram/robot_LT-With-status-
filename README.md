@@ -24,7 +24,7 @@
 * Add "app_url" to the script. Eg: 
 - Android
 ```
-Open Application    ${REMOTE_URL}    app=bs://<app_url>    name=single_test    build=RobotFramework    platformName=Android    os_version=7.0    device=Samsung Galaxy S8
+Open Application    ${REMOTE_URL}    app=app_url  name=parallel_test    build=RobotFramework    platformName=Android    platformVersion=10   deviceName=Google Pixel 3 XL  isRealMobile=true
 ```
 
 * To run single test, run `robot Appium_android.robot` OR  run `robot Appium_ios.robot` 
