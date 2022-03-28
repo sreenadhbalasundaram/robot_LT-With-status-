@@ -1,0 +1,35 @@
+{"level":30,"time":"2022-03-28T14:36:20.778Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Listening on 52779"}
+{"level":30,"time":"2022-03-28T14:36:20.795Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:20.796Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:20.800Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:20.800Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:20.803Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-03-28T14:36:20.803Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"currentBrowser: undefined"}
+{"level":30,"time":"2022-03-28T14:36:21.106Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active context"}
+{"level":30,"time":"2022-03-28T14:36:21.139Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Video path: undefined"}
+{"level":30,"time":"2022-03-28T14:36:21.139Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active page"}
+{"level":30,"time":"2022-03-28T14:36:21.602Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method newPage"}
+{"level":30,"time":"2022-03-28T14:36:21.607Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-28T14:36:21.608Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Strict mode is enabled, find Locator with h1 in page."}
+{"level":30,"time":"2022-03-28T14:36:21.667Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Retrieved text for element h1 containing Playwright enables reliable end-to-end testing for modern web apps."}
+{"level":30,"time":"2022-03-28T14:36:21.667Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-28T14:36:21.670Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:21.674Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:21.676Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active context"}
+{"level":30,"time":"2022-03-28T14:36:21.677Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-28T14:36:21.677Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active page"}
+{"level":30,"time":"2022-03-28T14:36:21.679Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:21.681Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:21.682Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-28T14:36:21.683Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-28T14:36:21.684Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-28T14:36:21.685Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-28T14:36:21.688Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active context"}
+{"level":30,"time":"2022-03-28T14:36:21.688Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-28T14:36:21.688Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active page"}
+{"level":30,"time":"2022-03-28T14:36:21.690Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-03-28T14:36:21.695Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-03-28T14:36:21.697Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:21.698Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-28T14:36:21.713Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-03-28T14:36:21.735Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method closeAllBrowsers"}
