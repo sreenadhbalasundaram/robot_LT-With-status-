@@ -10,22 +10,24 @@ try:
 except Exception:
     ROBOT = False
 
-# create a sample json
-a = {'browserName': 'Chrome',
-    'browserVersion': '91.0',
-    'LT:Options': {
-      'platform': 'Windows 10',
-      'build': 'browser-library',
-      'name': 'browser-library',
-      'user': '',
-      'accessKey': ''
-    }
-  }
 
-# Convert JSON to String
-y = json.dumps(a)
-print("Encoded" + urllib.parse.urlencode(a))
 
 @keyword("Capability")
 def caps():
-    return urllib.parse.urlencode(a)
+    # create a sample json
+  a = {
+      'browserName': 'Chrome',
+      'browserVersion': '91.0',
+      'LT:Options': {
+        'platform': 'Windows 10',
+        'build': 'browser-library tests',
+        'name': 'browser-library',
+        'user': '',
+        'accessKey': ''
+      }
+    }
+
+  # Convert JSON to String
+  y = json.dumps(a)
+  print("Encoded" + urllib.parse.quote(y))  
+  return urllib.parse.quote(y)
