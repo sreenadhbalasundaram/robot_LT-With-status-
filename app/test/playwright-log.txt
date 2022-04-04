@@ -1,35 +1,38 @@
-{"level":30,"time":"2022-03-28T14:36:20.778Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Listening on 52779"}
-{"level":30,"time":"2022-03-28T14:36:20.795Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:20.796Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:20.800Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:20.800Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:20.803Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method newPage"}
-{"level":30,"time":"2022-03-28T14:36:20.803Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"currentBrowser: undefined"}
-{"level":30,"time":"2022-03-28T14:36:21.106Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active context"}
-{"level":30,"time":"2022-03-28T14:36:21.139Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Video path: undefined"}
-{"level":30,"time":"2022-03-28T14:36:21.139Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active page"}
-{"level":30,"time":"2022-03-28T14:36:21.602Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method newPage"}
-{"level":30,"time":"2022-03-28T14:36:21.607Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getText"}
-{"level":30,"time":"2022-03-28T14:36:21.608Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Strict mode is enabled, find Locator with h1 in page."}
-{"level":30,"time":"2022-03-28T14:36:21.667Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Retrieved text for element h1 containing Playwright enables reliable end-to-end testing for modern web apps."}
-{"level":30,"time":"2022-03-28T14:36:21.667Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getText"}
-{"level":30,"time":"2022-03-28T14:36:21.670Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:21.674Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:21.676Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active context"}
-{"level":30,"time":"2022-03-28T14:36:21.677Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changing current active page"}
-{"level":30,"time":"2022-03-28T14:36:21.677Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active page"}
-{"level":30,"time":"2022-03-28T14:36:21.679Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:21.681Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:21.682Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-03-28T14:36:21.683Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-03-28T14:36:21.684Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-03-28T14:36:21.685Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-03-28T14:36:21.688Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active context"}
-{"level":30,"time":"2022-03-28T14:36:21.688Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changing current active page"}
-{"level":30,"time":"2022-03-28T14:36:21.688Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Changed active page"}
-{"level":30,"time":"2022-03-28T14:36:21.690Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method closeContext"}
-{"level":30,"time":"2022-03-28T14:36:21.695Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method closeContext"}
-{"level":30,"time":"2022-03-28T14:36:21.697Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:21.698Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-03-28T14:36:21.713Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2022-03-28T14:36:21.735Z","pid":8301,"hostname":"mayank2193-robotlt-8ckp8uuwt6s","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2022-04-04T09:36:36.917Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Listening on 36379"}
+{"level":30,"time":"2022-04-04T09:36:37.020Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-04T09:36:37.021Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-04T09:36:37.025Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-04T09:36:37.026Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-04T09:36:37.032Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Start of node method connectToBrowser"}
+{"level":30,"time":"2022-04-04T09:36:37.553Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Error of node method  connectToBrowser"}
+================= Original suppressed error =================
+browserType.connect: WebSocket error: Unexpected server response: 502
+=========================== logs ===========================
+<ws connecting> wss://cdp.lambdatest.com/playwright?capabilities=browserName=Chrome&browserVersion=91.0&LT%3AOptions=%7B%27platform%27%3A+%27Windows+10%27%2C+%27build%27%3A+%27browser-library%27%2C+%27name%27%3A+%27browser-library%27%2C+%27user%27%3A+%27mayankmaurya%27%2C+%27accessKey%27%3A+%274N7wU1Sq7cBGRHCaGf5Y72mTS30xyLV1faGphyvELhuNoTLMRk%27%7D
+<ws error> [object Object]
+<ws connect error> wss://cdp.lambdatest.com/playwright?capabilities=browserName=Chrome&browserVersion=91.0&LT%3AOptions=%7B%27platform%27%3A+%27Windows+10%27%2C+%27build%27%3A+%27browser-library%27%2C+%27name%27%3A+%27browser-library%27%2C+%27user%27%3A+%27mayankmaurya%27%2C+%27accessKey%27%3A+%274N7wU1Sq7cBGRHCaGf5Y72mTS30xyLV1faGphyvELhuNoTLMRk%27%7D Unexpected server response: 502
+<ws disconnected> wss://cdp.lambdatest.com/playwright?capabilities=browserName=Chrome&browserVersion=91.0&LT%3AOptions=%7B%27platform%27%3A+%27Windows+10%27%2C+%27build%27%3A+%27browser-library%27%2C+%27name%27%3A+%27browser-library%27%2C+%27user%27%3A+%27mayankmaurya%27%2C+%27accessKey%27%3A+%274N7wU1Sq7cBGRHCaGf5Y72mTS30xyLV1faGphyvELhuNoTLMRk%27%7D code=1006 reason=
+============================================================
+    at _connectBrowser (/home/gitpod/.pyenv/versions/3.8.12/lib/python3.8/site-packages/Browser/wrapper/index.js:7237:49)
+    at connectToBrowser (/home/gitpod/.pyenv/versions/3.8.12/lib/python3.8/site-packages/Browser/wrapper/index.js:7577:33)
+    at PlaywrightServer.connectToBrowser (/home/gitpod/.pyenv/versions/3.8.12/lib/python3.8/site-packages/Browser/wrapper/index.js:7757:34)
+    at handleUnary (/home/gitpod/.pyenv/versions/3.8.12/lib/python3.8/site-packages/Browser/wrapper/node_modules/@grpc/grpc-js/build/src/server.js:718:13) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2022-04-04T09:36:37.558Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-04-04T09:36:37.559Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (/home/gitpod/.pyenv/versions/3.8.12/lib/python3.8/site-packages/Browser/wrapper/index.js:6272:11)
+    at takeScreenshot (/home/gitpod/.pyenv/versions/3.8.12/lib/python3.8/site-packages/Browser/wrapper/index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (/home/gitpod/.pyenv/versions/3.8.12/lib/python3.8/site-packages/Browser/wrapper/index.js:7757:34)
+    at handleUnary (/home/gitpod/.pyenv/versions/3.8.12/lib/python3.8/site-packages/Browser/wrapper/node_modules/@grpc/grpc-js/build/src/server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-04-04T09:36:37.565Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-04T09:36:37.565Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-04T09:36:37.567Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-04T09:36:37.568Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-04T09:36:37.584Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-04-04T09:36:37.585Z","pid":13890,"hostname":"mayank2193-robotlt-zbssemnd0iv","msg":"End of node method closeAllBrowsers"}
