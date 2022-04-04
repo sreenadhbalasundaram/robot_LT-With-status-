@@ -17,8 +17,8 @@ a = {'browserName': 'Chrome',
       'platform': 'Windows 10',
       'build': 'browser-library',
       'name': 'browser-library',
-      'user': 'mayankmaurya',
-      'accessKey': '4N7wU1Sq7cBGRHCaGf5Y72mTS30xyLV1faGphyvELhuNoTLMRk'
+      'user': '',
+      'accessKey': ''
     }
   }
 
